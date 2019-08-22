@@ -1,5 +1,3 @@
-# underperforming-regions_analysis
-
 # Determining Underperforming Regions
 
 To do the analysis
